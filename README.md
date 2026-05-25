@@ -1,10 +1,15 @@
 # Transcendence
 
-First web project completed as a group in the summer of 2023 as part of the core curriculum at École 42.
+First web project completed as a group in 2023 as part of the core curriculum at 42.
+
+The aim of this project is to create a website for the ultimate Pong contest.
+
+It's an application that makes it easy for users to play Pong with others in real time, covering the whole process from registration to the final multiplayer match within a single-page architecture. Users are able to register and log in securely (using 42 OAuth and Two-Factor Authentication), complete their profile, track their match history, and view global leaderboards. They are also able to interact via an integrated chat system (private message or main channel), manage a friends list, block other users, and instantly challenge them to real-time multiplayer Pong matches.
 
 ## Technologies
 
-- <ins>Backend</ins>: Nest (Node.js)
+- <ins>Language: TypeScript</ins>
+- <ins>Backend</ins>: NestJS (Node.js)
 - <ins>Frontend</ins>: Angular
 - <ins>Database</ins>: Postgresql
 - <ins>Containerisation:</ins> Docker
