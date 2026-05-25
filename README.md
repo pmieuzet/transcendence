@@ -1,5 +1,15 @@
 # Transcendence
-ft_transcendence
+
+First web project completed as a group in the summer of 2023 as part of the core curriculum at École 42.
+
+## Technologies
+
+- <ins>Backend</ins>: Nest (Node.js)
+- <ins>Frontend</ins>: Angular
+- <ins>Database</ins>: Postgresql
+- <ins>Containerisation:</ins> Docker
+
+## View examples
 
 ![Capture d’écran du 2023-10-19 17-50-59](https://github.com/subrandt/Transcendence/assets/102531369/52b35754-8610-4b90-8e99-7f6fa9aa350d)
 
