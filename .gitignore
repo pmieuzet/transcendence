@@ -1,0 +1,8 @@
+.env
+.idea
+_certificat/transcendence.crt
+_certificat/transcendence.key
+SharedImages/
+node_modules/
+server.cert
+server.key
